@@ -2,7 +2,8 @@
 # Concept we are using :
 
 
-# Reinforcement Learning : Reinforcement learning is an area of machine learning concerned with how software agents ought to take actions in an environment in order to maximize the notion of cumulative reward.
+# Reinforcement Learning : 
+Reinforcement learning is an area of machine learning concerned with how software agents ought to take actions in an environment in order to maximize the notion of cumulative reward.
 
 
 
